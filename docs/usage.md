@@ -2,3 +2,4 @@
 
 Notes and usage details for mcp-k8s.
 - link the usage section
+- link the usage section
