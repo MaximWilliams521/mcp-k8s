@@ -20,3 +20,4 @@ Notes and usage details for mcp-k8s.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
