@@ -29,3 +29,4 @@ Notes and usage details for mcp-k8s.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
